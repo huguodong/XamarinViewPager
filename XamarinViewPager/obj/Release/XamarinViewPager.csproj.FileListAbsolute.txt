@@ -1,0 +1,13 @@
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\bin\Release\XamarinViewPager.dll
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\bin\Release\XamarinViewPager.pdb
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\bin\Release\XamarinViewPager.XamarinViewPager.apk
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\bin\Release\XamarinViewPager.XamarinViewPager-Signed.apk
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\bin\Release\Xamarin.Android.Support.v4.dll
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\obj\Release\XamarinViewPager.csprojResolveAssemblyReference.cache
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\obj\Release\XamarinViewPager.dll
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\obj\Release\XamarinViewPager.pdb
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\obj\Release\android\bin\XamarinViewPager.XamarinViewPager.apk
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\obj\Release\res\values\strings.xml
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\obj\Release\res\values\attrs.xml
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\obj\Release\R.cs.flag
+E:\xamarin\XamarinViewPager-master\XamarinViewPager\obj\Release\uploadflags.txt

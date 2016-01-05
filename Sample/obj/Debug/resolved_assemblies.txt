@@ -1,0 +1,9 @@
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\Sample.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\System.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\assemblies\XamarinViewPager.dll

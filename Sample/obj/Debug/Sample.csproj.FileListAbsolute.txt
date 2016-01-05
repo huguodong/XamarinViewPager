@@ -1,0 +1,17 @@
+E:\xamarin\XamarinViewPager-master\Sample\bin\Debug\Sample.dll
+E:\xamarin\XamarinViewPager-master\Sample\bin\Debug\Sample.pdb
+E:\xamarin\XamarinViewPager-master\Sample\bin\Debug\Sample.Sample.apk
+E:\xamarin\XamarinViewPager-master\Sample\bin\Debug\Sample.Sample-Signed.apk
+E:\xamarin\XamarinViewPager-master\Sample\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\xamarin\XamarinViewPager-master\Sample\bin\Debug\XamarinViewPager.dll
+E:\xamarin\XamarinViewPager-master\Sample\bin\Debug\XamarinViewPager.pdb
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\Sample.dll
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\Sample.pdb
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\android\bin\Sample.Sample.apk
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\res\layout\main.xml
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\res\values\strings.xml
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\res\drawable\icon.png
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\res\menu\main.xml
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\R.cs.flag
+E:\xamarin\XamarinViewPager-master\Sample\obj\Debug\uploadflags.txt
